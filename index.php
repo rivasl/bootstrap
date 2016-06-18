@@ -32,10 +32,11 @@
               United Kingdon<br>
               CT21 5SH<br>
               HOT FIX ADDED! :D <br>
+              HOT FIX 2 ADDED! :) <br>
               <abbr title="Phone">P:</abbr> 01234 567 890 **<br>
             </address>
           <br>
-          Mas bla bla bla...
+          Mas bla bla bla... <br> Esto es del HOT FIX 2!
           </div>
         </div>
     </div>
