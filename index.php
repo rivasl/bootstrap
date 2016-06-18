@@ -33,7 +33,7 @@
               CT21 5SH<br>
               HOT FIX ADDED! :D <br>
               HOT FIX 2 ADDED! :) <br>
-              <abbr title="Phone">P:</abbr> 01234 567 890 **<br>
+              <abbr title="Phone">P:</abbr> 01234 567 890 **<br> . <br> Lo ultimo del Issue 2
             </address>
           <br>
           Mas bla bla bla... <br> Esto es del HOT FIX 2!
