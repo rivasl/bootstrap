@@ -31,12 +31,8 @@
               Kent<br>
               United Kingdon<br>
               CT21 5SH<br>
-<<<<<<< HEAD
               HOT FIX ADDED! :D <br>
-              <abbr title="Phone">P:</abbr> 01234 567 890
-=======
-              <abbr title="Phone">P:</abbr> 01234 567 890 **
->>>>>>> tema1
+              <abbr title="Phone">P:</abbr> 01234 567 890 **<br>
             </address>
           </div>
         </div>
