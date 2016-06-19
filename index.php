@@ -25,7 +25,7 @@
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
             <h2>Rama: Issue 2 - Modificación de Issue 2</h2>
             <address>
-              <strong>Address</strong><br>
+              <strong>Address EXPERIMENT</strong><br>
               15 Springfield Way<br>
               Hythe<br>
               Kent<br>
