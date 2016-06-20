@@ -2,11 +2,11 @@
 /* ---------------------------------------------------------- */
 
 .col-md-1, .col-md-4, .col-md-6, .col-md-8, .col-md-12{
-        border: 1px solid blue;
+        border: 1px solid red;
         line-height: 3.5em;
 }
 
 .row{
-        border: 5px solid blue;
+        border: 5px solid red;
         line-height: 3.5em;
 }
